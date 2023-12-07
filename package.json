@@ -1,7 +1,5 @@
 {
   "name": "harhat-fund-me",
-  "author": "me",
-  "version": "0.0.1",
   "devDependencies": {
     "@chainlink/contracts": "^0.8.0",
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",
